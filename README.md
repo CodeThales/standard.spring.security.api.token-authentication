@@ -1,0 +1,1 @@
+Uma API para criação e registro de usuário e suas roles, implementando autenticação e validação por token usando Java e Spring Security
